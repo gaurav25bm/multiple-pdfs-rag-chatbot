@@ -1,6 +1,6 @@
 # 🤖 Multi-Document RAG Chatbot
 
-**Status:** Live and Operational 🟢  
+**Status:** Live and Operational 
 **🚀 [Click here to launch the Live Web App]
 (https://multiple-pdfs-rag-chatbot-2dldzrrjv5eao5qexe5rtg.streamlit.app/)**
 
