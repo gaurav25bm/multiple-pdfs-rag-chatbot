@@ -1,0 +1,12 @@
+streamlit
+PyPDF2
+python-dotenv
+google-generativeai
+langchain
+langchain-community
+langchain-google-genai
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+torch
+torchvision
